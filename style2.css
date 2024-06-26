@@ -1,0 +1,122 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #000;
+}
+
+.container-eyes{
+    background-image: url(eyesbg.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: auto auto;
+    border-radius: 20px;
+    padding: 20px;
+    height: 100vh;
+    text-align: justify;
+}
+
+.container-lips{
+    background-image: url(lipsbg.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: auto auto;
+    border-radius: 20px;
+    padding: 20px;
+    height: 100vh;
+    text-align: justify;
+}
+
+.container-hair{
+    background-image: url(hairbg.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: auto auto;
+    border-radius: 20px;
+    padding: 20px;
+    height: 100vh;
+    text-align: justify;
+}
+
+.container-voice{
+    background-image: url(voicebg.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: auto auto;
+    border-radius: 20px;
+    padding: 20px;
+    height: 100vh;
+    text-align: justify;
+}
+
+
+.container-slang{
+    background-image: url(slangbg.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: auto auto;
+    border-radius: 20px;
+    padding: 20px;
+    height: 100vh;
+    text-align: justify;
+}
+
+.container-child{
+    background-image: url(childbg.webp);
+    background-position: center;
+    background-size: cover;
+    margin: auto auto;
+    border-radius: 20px;
+    padding: 20px;
+    height: 100vh;
+    text-align: justify;
+}
+
+.container-final{
+    background-image: url(us.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: auto auto;
+    border-radius: 20px;
+    padding: 20px;
+    height: 100vh;
+    text-align: justify;
+}
+
+.card{
+    background-color: rgb(0, 0, 0);
+    opacity: .7;
+    border-radius: 20px;
+    padding: 10px;
+    height: 80%;
+}
+
+.h{
+    color: white;
+    padding: 20px auto;
+    text-align: center;
+}
+
+.p{
+    margin-top: 20%;
+    opacity: 1;
+    color: rgb(255, 255, 255);
+    
+}
+
+.b{
+    background-color: #3ecfff;
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    /* margin: 20px 20px; */
+    margin-left: 50%;
+    margin-top: 20px;
+    transform: translate(-50%,-50%);
+    font-weight: bolder;
+}
+
+.p-final{
+    margin-top: 1%;
+    opacity: 1;
+    color: rgb(255, 255, 255);
+}
